@@ -345,7 +345,7 @@ We welcome contributions! Here's how to get started:
 
 ```bash
 # Fork and clone your fork
-git clone https://github.com/yourusernameAbhi-2516/speech-segmentation.git
+git clone https://github.com/Abhi-2516/Audio-Extract
 
 # Create feature branch
 git checkout -b feature/amazing-feature
@@ -373,4 +373,5 @@ pip install -r requirements-dev.txt
 
 
 ---
+
 
