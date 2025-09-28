@@ -80,7 +80,7 @@ sudo apt update && sudo apt install ffmpeg
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/speech-segmentation.git
+git clone https://github.com/Abhi-2516/Audio-Extract
 cd speech-segmentation
 
 # Create virtual environment (recommended)
@@ -373,5 +373,6 @@ pip install -r requirements-dev.txt
 
 
 ---
+
 
 
